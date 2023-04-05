@@ -1,1 +1,117 @@
-# suraj
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> My personal website</title>
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td> <img src="image/image.png" alt="suraj picture</td>"
+            <td>
+                <h1> Suraj Gupta</h1>
+                <h3>I am a student in <h1>TCET</h1>studying in Software devloper.</h3>
+                <h2> Love to do coding.</h2>
+                <p> My favourite Language is python,java,c.<br>
+                    I love to play Games.😄
+            </td>
+        </tr>
+    </table>
+
+
+
+    </h1>
+    </br>
+    <ul>
+        <li><a href="https://www.w3schools.com">Visit W3Schools.com!</a></li>
+    </ul>
+    </p>
+    <hr>
+    <pr2>
+        <h2>hobbies</h2>
+        <ul>
+            <li>cricket<br>
+            <li>hockey<br>
+            <li>carrom<br>
+            <li>chess<br>
+            <li>bgmi<br></li>
+        </ul>
+        <hr>
+        </p2>
+        <!-- <p3>Column making</p3>
+<table>
+<tr>
+    <td>Column1</td>
+    <td>Column2</td>
+</tr> 
+<tr>
+    <td>Column3</td>
+    <td>Column4</td>    
+</tr>
+</table> -->
+
+        <!-- <!-- <p>Simple table with header</p>
+    <table>
+      <t
+        <td>john</td>
+        <td>doe</td>
+      </tr>
+      <tr>
+        <td>jane</td>
+        <td>Doe</td>
+      </tr>
+    </table> -->
+        <!-- --> -->r>
+        <p3>Skills</p3>
+        <table>
+            <tr>
+                <td>Html</td>
+                <td>⭐️ ⭐️ ⭐️ ⭐️⭐️⭐️ </td>
+
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td>⭐️ ⭐️ ⭐️ ⭐️⭐️⭐️⭐️ </td>
+            </tr>
+            <tr>
+                <td>Word</td>
+                <td>⭐️⭐️⭐️⭐️⭐️</td>
+            </tr>
+        </table>
+        <p3>
+            <h2>Contact me</h2>
+        </p3>
+        <li>Address-Thakur College</li>
+        <li>phone no :098765357</li>
+        <li>email id : Suraj@gmail</li>
+        <form>
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname"><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname">
+        </form>
+        <fieldset>
+            <legend>Choose your features:</legend>
+
+            <div>
+                <input type="checkbox" id="python" name="puthon" checked>
+                <label for="python">Python</label>
+            </div>
+
+            <div>
+                <input type="checkbox" id="java" name="java">
+                <label for="java">Java</label>
+            </div>
+        </fieldset>
+
+
+
+
+
+</body>
+
+</html>
